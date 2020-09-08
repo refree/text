@@ -7,7 +7,7 @@
 
 ## 2. Hardware Setting
 - 언제나 그러하듯, 저는 회로부터 설계합니다. 회로는 여러 블로그를 다녀보았지만, 이 설계한 것이 가장 안정적인 것 같습니다. 
-![ir_bb](./img/ir_bb.jpg)
+![ir_bb](./img/ir_bb.jpg=100x20)
 
 
 
