@@ -80,3 +80,4 @@ if (irrecv.decode(&signals)) //수신을 받으면
 ```
 
 [![Watch the video](https://img.youtube.com/vi/qxe3xkCqmlQ/maxresdefault.jpg)](https://youtu.be/qxe3xkCqmlQ)
+[![Video Label](http://img.youtube.com/vi/qxe3xkCqmlQ/0.jpg)](https://youtu.be/qxe3xkCqmlQ)
