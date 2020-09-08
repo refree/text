@@ -77,4 +77,4 @@ if (irrecv.decode(&signals)) //수신을 받으면
 0x00FF52AD -> 숫자 9
 ```
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/qxe3xkCqmlQ)
+[![Watch the video](https://img.youtube.com/vi/qxe3xkCqmlQ/maxresdefault.jpg)](https://youtu.be/qxe3xkCqmlQ)
